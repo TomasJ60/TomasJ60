@@ -34,7 +34,7 @@ Systems Engineer specializing in Full-Stack Development and Automation, with the
 
 ## 📄 CV & Contact
 - 📥 **[Descarga mi CV aquí](https://github.com/TomasJ60/TomasJ60/blob/main/Tomas_Daza_CV.pdf)**
-- 💼 [LinkedIn]( www.linkedin.com/in/tomas-alejandro-alvarez-daza )
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomas-alejandro-alvarez-daza)
 - 📧 Correo: [tomas-103@hotmail.es]
 
 ---
